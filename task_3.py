@@ -1,0 +1,1 @@
+print(''.join(reversed('1, 4, 7')))

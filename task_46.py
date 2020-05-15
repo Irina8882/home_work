@@ -1,0 +1,1 @@
+print(''.join(map(lambda x: x if x != 'a' else 'ab', input('Enter the string: '))))
